@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyTextFieldDemo", "CurrencyTextFieldDemo\CurrencyTextFieldDemo.csproj", "{4603B0B3-465C-4933-946C-50989C0355E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4603B0B3-465C-4933-946C-50989C0355E1}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{4603B0B3-465C-4933-946C-50989C0355E1}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{4603B0B3-465C-4933-946C-50989C0355E1}.Release|iPhone.ActiveCfg = Release|iPhone
+		{4603B0B3-465C-4933-946C-50989C0355E1}.Release|iPhone.Build.0 = Release|iPhone
+		{4603B0B3-465C-4933-946C-50989C0355E1}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{4603B0B3-465C-4933-946C-50989C0355E1}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{4603B0B3-465C-4933-946C-50989C0355E1}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{4603B0B3-465C-4933-946C-50989C0355E1}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
